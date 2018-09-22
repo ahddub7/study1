@@ -2,3 +2,4 @@
 branch1
 /test/branch1
 /test/branch2
+/test/branch3
